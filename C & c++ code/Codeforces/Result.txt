@@ -1,0 +1,16 @@
+Name: Md.Saifuzzaman Abhi
+Roll: 20CSE052
+Registration: 110-052-20
+Name of Subjects 
+S.L			Subjects			Credits			Marks			Grades			GPA 
+1		COMPUTER FUNDAMENTAL			3.75			76			A			3.7 
+2		PROGRAMMING FUNDAMENTAL			4.00			82			A+			4.0 
+3		COMPUTER FUNDAMENTAL			3.75			76			A			3.7 
+4		PROGRAMMING FUNDAMENTAL			4.00			82			A+			4.0 
+5		PROGRAMMING FUNDAMENTAL			4.00			82			A+			4.0 
+
+
+
+Total Credits: 19.50
+
+CGPA: 3.87
