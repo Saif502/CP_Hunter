@@ -36,6 +36,6 @@ int main()
     start() 
     memset(step, -1, sizeof step);
     ll z=10000;
-    cout<<find(z)<<endl;
+    cout<<find(7)<<endl;
 
 }
